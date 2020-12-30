@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Django_VideoStream" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/django-redis" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/djangoStream" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hello-websocket" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/project1/hello-websocket" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/record/hello-websocket" vcs="Git" />
+  </component>
+</project>
